@@ -2,6 +2,8 @@
 
 This project is a simple calendar built with HTML, CSS, and JavaScript that displays the current time, day, and month. It's a great starter project for anyone interested in learning more about front-end web development.
 
+![Screenshot](Calender.png)
+
 ## Getting Started
 
 To get started with this project, simply download or clone the repository and open the `index.html` file in your browser. You should see a calendar displayed on the page with the current time, day, and month.
