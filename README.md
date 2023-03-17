@@ -23,7 +23,7 @@ To customize the styles and layout of the calendar, you can modify the CSS code 
 
 ## Demo
 
-You can view a live demo of this project here. 
+You can view a live demo of this project [here](https://karthik-beta.github.io/Calender)
 
 ## Acknowledgment
 
