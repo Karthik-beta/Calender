@@ -10,7 +10,7 @@ To get started with this project, simply download or clone the repository and op
 
 To clone this project, run the following command in your terminal:
 
-git clone : `https://github.com/your_username/calendar-project.git`
+git clone : `https://github.com/Karthik-beta/Calender.git`
 
 ## Features
 
